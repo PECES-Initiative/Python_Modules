@@ -27,23 +27,23 @@ A similar set of [R teaching modules are availbile at a sister repository](https
 
 1. Fork this repository! This will make a copy of this repository in your personal GitHub account. [Here are instructions!](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
 2. [Clone](https://github.com/git-guides/git-clone) the repository locally on your computer. In the terminal, go to the location you want the repository to be located and type:
-```
-git clone git@github.com:PECES-Initiative/Python_Modules.git
-```
+    ```
+    git clone git@github.com:PECES-Initiative/Python_Modules.git
+    ```
 
 2. Make a branch! Pick a branch name, for example `sea_ice_module`. In the terminal type (but replace with your branch name):
-```
-git switch -c sea_ice_module
-```
+    ```
+    git switch -c sea_ice_module
+    ```
 
 3. You can now add in your module (which should be a Python notebook `.ipynb` file) and any other content within your local copy. If you are adding any supplementary material other than a notebook, please make a sub-folder with your module name and add in your content.
 
 4. Git [add](https://github.com/git-guides/git-add), [commit](https://github.com/git-guides/git-commit), and [push](https://github.com/git-guides/git-push) your content. Write your own commit message. Here In the terminal type:
-```
-git add .
-git commit -m "Adding sea ice module - WRITE YOUR OWN DONT COPY THIS"
-git push
-```
+    ```
+    git add .
+    git commit -m "Adding sea ice module - WRITE YOUR OWN DONT COPY THIS"
+    git push
+    ```
 
 5. Your code is now on your branch on your copy of the GitHub repository! Repeat Step 4 as you keep adding new content or updating your module! See below in the Binder section about how to keep track of what packages you use! 
 
