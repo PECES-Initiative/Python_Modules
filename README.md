@@ -17,9 +17,9 @@ PECES Python Modules
 </p>
 
 
-During PECES 2026, we developed a series of Python teaching modules to introduce key programming and data science concepts. This repository is meant to be a growing list of activities that teachers can use and add to. We hope that these modules can be useful in classes and provide inspiratio for further modules. The modules are written as Python notebooks.
+During PECES 2026, we developed a series of Python teaching modules to introduce key programming and data science concepts. This repository is meant to be a growing list of activities that teachers can use and add to. We hope that these modules can be useful in classes and provide inspiration for further modules. The modules are written as Python notebooks.
 
-A similar set of [R teaching modules are availbile at a sister repository](https://github.com/PECES-Initiative/R_Modules).
+A similar set of [R teaching modules are available at a sister repository](https://github.com/PECES-Initiative/R_Modules).
 
 # Using the Modules
 
