@@ -1,8 +1,28 @@
-# Python Modules from PECES
+<!-- Title -->
+<h1 align="center">
+PECES Python Modules
+</h1>
 
-[![Binder](http://mybinder.org/badge_logo.svg)]([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PECES-Initiative/Python_Modules/HEAD))
+<!-- description -->
+<p align="center">
+  <strong>Python Teaching modules for teaching programming and earth science concepts. Developed during Programming in Earth Science Classroom Educational Workshop (PECES). </strong>
+</p>
 
-TODO: Add Description
+<!-- Information badges -->
+
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PECES-Initiative/Python_Modules/HEAD)
+
+
+During PECES 2026, we developed a series of Python teaching modules to introduce key programming and data science concepts. This repository is meant to be a growing list of activities that teachers can use and add to. We hope that these modules can be useful in classes and provide inspiratio for further modules.
+
+A similar set of [R teaching modules are availbile at a sister repository](https://github.com/PECES-Initiative/R_Modules).
+
+# Using the Modules
+
+# Adding New Modules
+
+# Using Binder
+
 
 A Binder-compatible repo with an `environment.yml` file.
 
