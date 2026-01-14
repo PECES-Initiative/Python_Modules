@@ -23,6 +23,16 @@ A similar set of [R teaching modules are available at a sister repository](https
 
 # Using the Modules
 
+Feel free to use these modules however you want! You can use them directly in your class. The easiest way to do this, with no setup, is to simply launch binder. You can click on the badge above, or follow this link:
+
+https://mybinder.org/v2/gh/PECES-Initiative/Python_Modules/HEAD
+
+This will launch off the notebooks within a web broweser for interactive use. Any changes are not saved, but the environment is automatically set up. Updated notebooks can be downloaded. 
+
+Another option would be to fork this repository, which will make a copy in your personal Github account. You will be able to update it with any newly added modules over time. You can then adapt any modules, or distribute them to students another way (Google Colab, Jupyter Hub, locally, etc.).
+
+For more information on Binder, and how it automatically sets up the environment, see the Binder section below.
+
 # Adding New Modules
 
 1. Fork this repository! This will make a copy of this repository in your personal GitHub account. [Here are instructions!](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
@@ -55,16 +65,10 @@ A similar set of [R teaching modules are available at a sister repository](https
 
 # Using Binder
 
+Binder supports using Python through `.ipynb` files. 
 
-A Binder-compatible repo with an `environment.yml` file.
-
-Access this Binder by clicking the blue badge above or at the following URL:
-
-https://mybinder.org/v2/gh/PECES-Initiative/Python_Modules/HEAD
-
-## Notes
-The `environment.yml` file should list all Python libraries on which your notebooks
-depend, specified as though they were created using the following `conda` commands:
+## Requirements and suggestions
+The `environment.yml` file should list all Python libraries on which your notebooks depend, specified as though they were created using the following `conda` commands:
 
 ```
 conda activate example-environment
